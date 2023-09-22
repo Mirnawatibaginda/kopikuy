@@ -15,7 +15,7 @@ html {
 Kode di bawah ini untuk mengatur nav sampai footer agar memiliki tampilan flexibel
 selengkapnya akan di bahas di hari ke 3
 */
-section
+section,
 nav,
 header,
 footer {
